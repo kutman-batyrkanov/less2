@@ -11,6 +11,9 @@ let unit = "meters"
 let title = "Dark Town"
 let author = "Stiven King"
 
+title = "Harry Potter"
+author = "Joan Rowling"
+
 subject = "jd'jdas"
 unit = "fa;fjdklsa"
 
